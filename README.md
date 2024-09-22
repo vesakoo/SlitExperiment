@@ -21,7 +21,8 @@ Wavelenght is however allways same in this code.
 
 ## Things to do
 * Reflection in slit is still far from perfect. There is a clear uncontinnuity still after adding an extra phase shift to reflection
-* original Sin wave is now moving along the x axsis. it could vary so that the direction would have slightly variating angle towards x-axsis, like  +/- pi/4.    
+* original Sin wave is now moving along the x axsis. it could vary so that the direction would have slightly variating angle towards x-axsis, like  +/- pi/4.
+* it would save alot of simulation time if software would filter out beforehand all runs that does not end up into the sample wall.   
 
 
 
