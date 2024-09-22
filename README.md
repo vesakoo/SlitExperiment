@@ -1,7 +1,7 @@
 # SlitExperiment
 
 ![Slit refrelction](https://github.com/vesakoo/SlitExperiment/blob/main/SlitReflection.png?raw=true)
-SlitExpriment is a VPython code that simulates classic wave particle reflection on slit
+SlitExpriment is a VPython code that simulates classic wave particle reflection on slit ( This does not most propably mean what you think: in this context it is more like an imaginary ping bong ball moving in sin trajectory and reflecting from slit inner side top or bottom walls to an angle, that it's tangent has during the collision).  
 
 Ball moving fwd in sin wave. When it hits the slit it gets either blocked or goes directly through or if it hits the slit inside the gap, then it changes it's direction by an angle that it's tangent (derivate) has when hitting the top or floor of the slit.   
 
